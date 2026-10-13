@@ -23,7 +23,7 @@ A4 纵向；上下边距 1440 twips、左右 1797 twips；正文等线(DengXian)
 
 ```bash
 # 准备一份 JSON（参考 examples/sample.json）
-python generate_report.py examples/sample.json -o "内部门户公网匿名暴露漏洞.docx"
+python generate_report.py examples/sample.json -o "XXXX漏洞报告.docx"
 ```
 
 或读 stdin：
